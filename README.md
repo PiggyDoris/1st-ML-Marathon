@@ -1,1 +1,1 @@
-# MLMarathon-100day
+# 1st-ML-Marathon
